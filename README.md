@@ -10,4 +10,4 @@
 Profiles certifié
 
 [![Credly profile](images/credly-logo.png)](https://www.credly.com/users/jasonouellet/badges)
-[![Microsoft profile](images/microsoft.png)](https://learn.microsoft.com/en-us/users/jasonouellet/credentials/certifications?tab=credentials-tab)
+[![Microsoft profile](images/microsoft-logo.png)](https://learn.microsoft.com/en-us/users/jasonouellet/credentials/certifications?tab=credentials-tab)
