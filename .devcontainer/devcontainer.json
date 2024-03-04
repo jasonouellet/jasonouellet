@@ -1,0 +1,18 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+    "ghcr.io/dhoeric/features/terraform-docs:1": {},
+    "ghcr.io/devcontainers/features/aws-cli:1": {},
+    "ghcr.io/devcontainers-contrib/features/terraform-asdf:2": {},
+    "ghcr.io/devcontainers-contrib/features/packer-asdf:2": {},
+    "ghcr.io/devcontainers/features/kubectl-helm-minikube:1": {
+      "minicube": "none"
+    },
+    "ghcr.io/jlaundry/devcontainer-features/azure-functions-core-tools:1": {},
+    "ghcr.io/devcontainers-contrib/features/markdownlint-cli2:1": {},
+    "ghcr.io/devcontainers-contrib/features/pre-commit:2": {},
+    "ghcr.io/devcontainers-contrib/features/ansible:2": {},
+    "ghcr.io/devcontainers-contrib/features/checkov:1": {},
+    "ghcr.io/devcontainers/features/azure-cli:1": {}
+  }
+}
